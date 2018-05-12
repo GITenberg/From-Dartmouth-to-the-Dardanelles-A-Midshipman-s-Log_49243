@@ -1,16 +1,22 @@
 _repo: From-Dartmouth-to-the-Dardanelles-A-Midshipman-s-Log_49243
+_version: 0.1.0
 contributor:
   creator:
     editor:
       agent_name: Forester, E. L.
       gutenberg_agent_id: '45217'
       url: http://www.gutenberg.org/2009/agents/45217
+covers:
+- cover_type: archival
+  image_path: 49243-h/images/cover.jpg
 creator:
   author:
     agent_name: Forester, Wolstan Beaumont Charles Weld
     gutenberg_agent_id: '44724'
     url: http://www.gutenberg.org/2009/agents/44724
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/49243#From-Dartmouth-to-the-Dardanelles-A-Midshipman-s-Log
 gutenberg_issued: '2015-06-20'
 gutenberg_type: Text
 identifiers:
